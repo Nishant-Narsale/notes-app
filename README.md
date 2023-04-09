@@ -7,7 +7,7 @@ Paste following command to download all node packages
 
 make sure you have npm installed, if not download it from https://nodejs.org/en/download/
 
-=== npm -i
+=== npm install
 
 You are ready to run project
 
@@ -20,7 +20,9 @@ for that insert following commands
 === npm install -g json-server
 === json-server --watch db.json --port 5000
 
-Now it will not generate an error
+Now go ahead and refresh page, it will not generate an error.
+
+
 But data is not coming from a backend it is coming from a json file i.e, db.json
 
-You can create your own api for CRUD operation over Notes table.
+You can create your own api for CRUD operation for notes.
