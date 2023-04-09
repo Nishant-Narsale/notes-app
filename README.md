@@ -14,7 +14,7 @@ You are ready to run project
 === npm start
 
 But it will give you an data fetching error
-As, we are not using our api yet, It is a normal json server you have to start
+As, we are not using our APIs yet, It is a normal json server you have to start
 for that insert following commands
 
 === npm install -g json-server
